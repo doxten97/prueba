@@ -1,5 +1,5 @@
 const primera_funcion = () => {
-    console.log("DENIS");
+    console.log("prueba");
 }
 
 //primera_funcion();
