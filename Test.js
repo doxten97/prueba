@@ -5,7 +5,7 @@ const primera_funcion = () => {
 //primera_funcion();
 
 const segunda_funcion = () => {
-    console.log("FUNCION_jimmy");
+    console.log("FUNCION_jim");
 }
 
 
